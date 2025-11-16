@@ -1,0 +1,20 @@
+{
+  "name": "FL10_CDR",
+  "short_name": "FL10",
+  "start_url": "fl10.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "01_Icona_FL10_CDR_192x192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "01_Icona_FL10_CDR_512x512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
